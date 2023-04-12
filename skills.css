@@ -1,16 +1,13 @@
 .skills-container {
     width: 100%;
     font-family: Arial, sans-serif;
-    /* max-width: 600px; */
     max-width: 420px;
     margin: 0 auto;
   }
-  
   .skills h2 {
     text-align: center;
     margin-bottom: 30px;
   }
-  
   .skills {
     width: 100%;
   }
