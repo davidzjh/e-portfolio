@@ -1,7 +1,7 @@
 document.getElementById('link1').addEventListener('click', function() {
     document.getElementById('content').innerHTML = `
-    <div class="hero">
-         <div class="hero-content">
+    <div class="home">
+         <div class="home-content">
          <h1>Junhai Zhang</h1><br>
          <p>A Tech Savvy Database Administator</p><br>
          <ul class="social">
